@@ -1,15 +1,13 @@
 #Update all the sections by editing the data.yml file inside _data folder.
 
 # Site Settings
-title: Jinwoo Nam's Resume
-url: http://skaws2003.github.io
-baseurl: /resume 
-description: Jinwoo Nam's Resume
+title: Daeun Kyung's Resume
+url: http://dek924.github.io
+baseurl: ''
+description: Daeun Kyung's Resume
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
 theme_skin: green # blue turquoise green berry orange ceramic
 chrome_mobile_color: #use hex colors (ex:#1976d2) or leave empty if you don't want a color for chrome mobile searchbar
-
-
 
 # Sass/SCSS
 sass:
